@@ -1,2 +1,2 @@
-# ferh-dash
-4.semester demo of deploy GitHub Dash app to azure
+# kea_dash_fakedata
+Demo af Dash med data fra en Excel fil - Deploy på Azure
