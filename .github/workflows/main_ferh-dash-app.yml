@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ferh-dash-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_631D6D9FFC5C4A42B61331B10B8EFB5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A9CDFC4E0664C048E23DFC95225FF13 }}
